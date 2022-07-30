@@ -1,0 +1,47 @@
+body {
+    background-color: #3aafa9;
+    padding:15px;
+}
+
+.homepage {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    border: #17252a solid 5px;
+    background-color: #17252a;
+    border-radius: 10px;
+    color: #def2f1;
+    text-decoration: none;
+    position: fixed;
+}
+
+.homepage:active {
+    color: #def2f1;
+}
+
+.homepage:hover {
+    color: #2b7478;
+}
+
+.reference h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 5px solid #17252a;
+}
+
+.reference a{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    line-height: 1cm;
+    color: #142a31;
+}
+
+.reference a:active {
+    color: #def2f1;
+}
+
+.reference a:hover {
+    color: #def2f1;
+}
